@@ -1,0 +1,10 @@
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\bin\Debug\virtual computer installer.exe.config
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\bin\Debug\virtual computer installer.exe
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\bin\Debug\virtual computer installer.pdb
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\obj\Debug\virtual computer installer.csproj.AssemblyReference.cache
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\obj\Debug\virtual_computer_installer.Form1.resources
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\obj\Debug\virtual_computer_installer.Properties.Resources.resources
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\obj\Debug\virtual computer installer.csproj.GenerateResource.cache
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\obj\Debug\virtual computer installer.csproj.CoreCompileInputs.cache
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\obj\Debug\virtual computer installer.exe
+C:\Users\Fusedev\source\repos\virtual computer installer\virtual computer installer\obj\Debug\virtual computer installer.pdb

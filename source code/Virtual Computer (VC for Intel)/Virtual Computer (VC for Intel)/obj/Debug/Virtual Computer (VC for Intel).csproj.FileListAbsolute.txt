@@ -1,0 +1,10 @@
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\bin\Debug\Virtual Computer (VC for Intel).exe.config
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\bin\Debug\Virtual Computer (VC for Intel).exe
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\bin\Debug\Virtual Computer (VC for Intel).pdb
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\obj\Debug\Virtual Computer (VC for Intel).csproj.AssemblyReference.cache
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\obj\Debug\Virtual_Computer__VC_for_Intel_.Form1.resources
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\obj\Debug\Virtual_Computer__VC_for_Intel_.Properties.Resources.resources
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\obj\Debug\Virtual Computer (VC for Intel).csproj.GenerateResource.cache
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\obj\Debug\Virtual Computer (VC for Intel).csproj.CoreCompileInputs.cache
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\obj\Debug\Virtual Computer (VC for Intel).exe
+C:\Users\Fusedev\source\repos\Virtual Computer (VC for Intel)\Virtual Computer (VC for Intel)\obj\Debug\Virtual Computer (VC for Intel).pdb
