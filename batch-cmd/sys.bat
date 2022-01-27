@@ -1,3 +1,3 @@
 @echo off
-setx path1 "C:/Program Files/qemu;%temp%"
+setx path "C:/Program Files/qemu;%temp%"
 exit
