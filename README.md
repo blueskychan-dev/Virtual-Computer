@@ -16,4 +16,6 @@ Virtual Machine Program are open source and based on QEMU [qemu helper]
 - Select your cpu.
 - Click Install Now.
 - Install Follow Popup
-- Not done yet i will sleep bye.
+- Wait status to done! and click exit.
+- Program will install to your desktop.
+- After Install **PLEASE** check your %path% in environment variables and read in ![We wiki](https://github.com/fusedevgithub/Virtual-Computer/wiki/Install-fix-%25path%25-is-broke.)
